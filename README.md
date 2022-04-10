@@ -1,4 +1,4 @@
-Data Analysis on Pandas
-=======================
+Data Analysis 
+=============
 
-This is a collection of Data Analysis using Pandas
+This is a collection of Data Analysis using mainly Pandas on Jupyter Notebook
